@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', 'Arial', 'sans-serif';
+    font-optical-sizing: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color: #1e293b;
+    color: white;
+}
+
+.header .header-logo {
+    font-family: 'Roboto', 'Arial', 'sans-serif';
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.header .header-list {
+    display: flex;
+    list-style: none;
+    font-size: 14px;
+    gap: 20px;
+    padding: 0;
+}
+
+ul {
+    padding: 8px;
+    border: 8px;
+
+}
