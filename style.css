@@ -22,11 +22,15 @@ body {
     color: #f9faf8;
 }
 
-.header .header-secondary-text {
+.header .header-links {
     display: flex;
     font-size: 18px;
     color: #e5e7eb;
     list-style: none;
     gap: 20px;
     padding: 0;
+}
+
+.hero {
+    display: flex;
 }
