@@ -15,3 +15,18 @@ body {
     padding: 15px 40px;
     color: white;
 }
+
+.header .hero-logo-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.header .hero-secondary-text {
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+    list-style: none;
+    gap: 20px;
+    padding: 0;
+}
