@@ -36,8 +36,15 @@ body {
     justify-content: space-around;
 }
 
-.hero .text .main {
+.hero .text {
     color: #f9faf8;
+}
+
+.hero .text .main {
     font-weight: 900;
     font-size: 30px;
+}
+
+.hero .text .secondary {
+    font-size: 18px;
 }
