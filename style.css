@@ -33,4 +33,11 @@ body {
 
 .hero {
     display: flex;
+    justify-content: space-around;
+}
+
+.hero .text .main {
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 30px;
 }
